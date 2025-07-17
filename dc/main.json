@@ -1,0 +1,21 @@
+{
+    "name": "main.json",
+    "version": "1",
+    "description": "sample configuration file for the application",
+    "T3": {
+        "example": "",
+        "example2": ""
+    },
+    "T2": {
+        "example": "",
+        "example2": ""
+    },
+    "T1": {
+        "example": "",
+        "example2": ""
+    },
+    "T0": {
+        "example": "",
+        "example2": ""
+    }
+}
