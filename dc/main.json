@@ -1,5 +1,5 @@
 {
-    "venueUnlocked": 0,
+    "activeVenue": 0,
     "overrideAvatarLighting": true,
     "whitelist": {
         "auzlex": 2,
