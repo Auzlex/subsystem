@@ -1,21 +1,10 @@
 {
-    "name": "main.json",
-    "version": "1",
-    "description": "sample configuration file for the application",
-    "T3": {
-        "example": "",
-        "example2": ""
-    },
-    "T2": {
-        "example": "",
-        "example2": ""
-    },
-    "T1": {
-        "example": "",
-        "example2": ""
-    },
-    "T0": {
-        "example": "",
-        "example2": ""
+    "venueUnlocked": 0,
+    "overrideAvatarLighting": true,
+    "whitelist": {
+        "auzlex": 2,
+        "xkmerlz": 2,
+        "auzlex bot": 1,
+        "SUBSYSTEM": 3,
     }
 }
